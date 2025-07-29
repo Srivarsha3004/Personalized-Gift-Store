@@ -42,11 +42,11 @@ A responsive, user-friendly, and full-stack web application for online gift shop
 
 
 ## 🖼️ Project Outputs & Screenshots
-
-### 🌟 Application Snapshots  
-| 🏠 Home Page | 🎁 Product Page | 🧾 Checkout Page |
-|-------------|------------------|------------------|
-| ![Home](https://github.com/user-attachments/assets/4890b2bc-ac5d-407b-bcce-a27fed5b4679) | ![Product](https://github.com/user-attachments/assets/f80d1f99-d566-4950-a099-28a6f6840e83) | ![Checkout](https://github.com/user-attachments/assets/f1a9f794-47e7-4085-8921-d5ceb3d0fd28) |
+![1](https://github.com/user-attachments/assets/5d489653-e8fb-461b-8658-f2a4fa16316d)
+![2](https://github.com/user-attachments/assets/a27328f1-8388-485a-9d8f-e897baa70da8)
+![3](https://github.com/user-attachments/assets/e42b2792-bac0-47bd-ad3e-ca0ffb79593d)
+![4](https://github.com/user-attachments/assets/9981ea31-452c-45a9-ab92-b77659b63d17)
+![5](https://github.com/user-attachments/assets/2e0ae552-701c-44f1-bd59-45d7145b4abf)
 
 ✨ More Output Screens:
 <img src="https://github.com/user-attachments/assets/5dd374e7-57ed-43cb-afb3-7af9f9f202d8" alt="output4" width="300"/> 😊  
