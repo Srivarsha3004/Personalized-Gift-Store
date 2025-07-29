@@ -92,9 +92,3 @@ A responsive, user-friendly, and full-stack web application for online gift shop
 
 ---
 
-## 📈 Future Enhancements
-
-- 💳 Integrate payment gateway (Razorpay/Stripe)
-- 📬 Email & SMS order notifications
-- 🔎 Add product search and filters
-- 📊 Admin dashboard for order & inventory management
