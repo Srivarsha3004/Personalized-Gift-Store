@@ -40,39 +40,6 @@ A responsive, user-friendly, and full-stack web application for online gift shop
 
 ---
 
-## 📂 Project Structure
-
-Personalized-Gift-Store/
-│
-├── index.html
-├── login.html
-├── register.html
-├── products/
-│ ├── cakes.html
-│ ├── flowers.html
-│ ├── combos.html
-│ └── gifts.html
-│
-├── css/
-│ └── styles.css
-│
-├── js/
-│ └── scripts.js
-│
-├── WEB-INF/
-│ ├── web.xml
-│ └── lib/
-│
-├── src/
-│ └── com/giftstore/servlets/
-│ ├── LoginServlet.java
-│ ├── RegisterServlet.java
-│ └── OrderServlet.java
-│
-└── database/
-└── giftstore.sql
-
----
 
 ## 🖼️ Project Outputs & Screenshots
 
