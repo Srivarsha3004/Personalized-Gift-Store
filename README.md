@@ -1,3 +1,76 @@
+# 🎁 Personalized Gift Store
+
+A responsive, user-friendly, and full-stack web application for online gift shopping. The Personalized Gift Store offers customers the ability to browse, customize, and purchase gifts such as cakes, flowers, combos, and personalized items, with a special focus on nearby eco-friendly bicycle delivery.
+
+---
+
+## 🔧 Tech Stack
+
+- **Frontend:** HTML5, CSS3, JavaScript  
+- **Backend:** Java (Servlets, JDBC)  
+- **Database:** MySQL  
+- **Web Server:** Apache Tomcat  
+- **IDE/Tools:** Eclipse / VS Code, XAMPP, MySQL Workbench
+
+---
+
+## 🚀 Features
+
+### ✅ User Authentication
+- Registration and login functionality.
+- Input validations on the client side.
+- User credentials stored securely in MySQL.
+
+### 🛍️ Gift Categories
+- Multiple gift categories: Cakes, Flowers, Combos, Personalized Gifts.
+- Each category presented with clean UI cards and images.
+
+### 📦 Order & Checkout System
+- Add items to cart.
+- View and edit cart before placing orders.
+- Order summary displayed with confirmation.
+
+### 🚲 Bicycle-Based Nearby Delivery
+- Eco-friendly delivery system for local orders.
+- Users can opt for bicycle delivery on checkout.
+
+### 💾 Backend Integration
+- Connected to MySQL using JDBC.
+- Fetching products, saving user details, and processing orders through servlets.
+
+---
+
+## 📂 Project Structure
+
+Personalized-Gift-Store/
+│
+├── index.html
+├── login.html
+├── register.html
+├── products/
+│ ├── cakes.html
+│ ├── flowers.html
+│ ├── combos.html
+│ └── gifts.html
+│
+├── css/
+│ └── styles.css
+│
+├── js/
+│ └── scripts.js
+│
+├── WEB-INF/
+│ ├── web.xml
+│ └── lib/
+│
+├── src/
+│ └── com/giftstore/servlets/
+│ ├── LoginServlet.java
+│ ├── RegisterServlet.java
+│ └── OrderServlet.java
+│
+└── database/
+└── giftstore.sql
 
 ---
 
@@ -24,6 +97,3 @@
 - 📬 Email & SMS order notifications
 - 🔎 Add product search and filters
 - 📊 Admin dashboard for order & inventory management
-
----
-
